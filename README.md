@@ -1,2 +1,1 @@
-Play ->
-https://yakiniku3taro.github.io/SS_WebGL/
+Play -> https://yakiniku-db.github.io/SS_WebGL/
